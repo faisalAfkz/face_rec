@@ -1,2 +1,2 @@
 # face_rec
- face detection with pyhton
+ face detection with python
